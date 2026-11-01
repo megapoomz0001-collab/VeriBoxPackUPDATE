@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "title": "VeriBoxPack v1.0.0 (Official Release)",
+  "changelog": "• ระบบบันทึกวิดีโอแพ็คพัสดุ 720p 30fps CFR พร้อม Smart Overlay HUD ป้องกันข้อพิพาท\n• จอซ้อน Screen PiP ถ่ายจอโปรแกรม WMS / ขนส่งแบบ Ultra-lightweight\n• ระบบถ่ายภาพอัตโนมัติ Snap A (เริ่มแพ็ค) และ Snap B (แพ็คเสร็จ) คมชัดสูง\n• สำรองคลิปขึ้น Google Drive ใน 1-Click พร้อมแชร์โฟลเดอร์สำหรับคลังหลายเครื่อง\n• ระบบตรวจสอบและแจ้งเตือนอัปเดตอัตโนมัติผ่าน GitHub VeriBoxPackUPDATE\n• ระบบคุ้มครองความปลอดภัยดิสก์ SSD Auto-Purge ฉุกเฉิน\n• ระบบตัดคลิปย่อ (Trimmer) และสร้างเอกสารข้อพิพาท 1-Click สำหรับ Shopee/Lazada/TikTok",
+  "downloadUrl": "https://github.com/megapoomz0001-collab/VeriBoxPackUPDATE/releases/download/v1.0.0/VeriBoxPack_Setup_v1.0.0.exe",
+  "isMandatory": false
+}
